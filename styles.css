@@ -217,8 +217,8 @@ li { margin: 5px 0; }
   margin-bottom: 2px;
 }
 .afamee-dev-icon {
-  width: 48px;
-  height: 48px;
+  width: 36px;
+  height: 36px;
   object-fit: contain;
   flex: 0 0 auto;
   filter: drop-shadow(0 5px 12px rgba(3,17,28,.16));
@@ -246,7 +246,7 @@ li { margin: 5px 0; }
 .app-link:hover { border-color: #9bdcdc; background: #f1fbfb; }
 
 @media (max-width: 680px) {
-  .afamee-dev-icon { width: 42px; height: 42px; }
+ .afamee-dev-icon { width: 32px; height: 32px; }
   .hero-inner { padding: 42px 0 42px; }
   .page { width: min(100% - 22px, 920px); }
   .meta, .toc, .policy { padding-left: 19px; padding-right: 19px; }
