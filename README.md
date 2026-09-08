@@ -1,11 +1,17 @@
-# AFAMEE Privacy
+# AFAMEE Privacy Site
 
-Privacy policies and support pages for AFAMEE apps.
+Static privacy and support site for AFAMEE apps.
 
-## GitHub Pages
+Included pages:
+- `/` — AFAMEE Privacy & Support hub
+- `/inventory-master/` — Inventory Master Privacy Policy
+- `/plan-master/` — Plan Master Privacy Policy
 
-Publish from the `main` branch and `/ (root)` folder.
+The Inventory Master policy is intentionally future-aware: optional advertising, purchases, Google Drive backup, cloud synchronization and online Invoice publication are described conditionally and apply only when those capabilities are available and used.
 
-Plan Master policy path:
+Privacy contact: afameeapps@gmail.com
 
-`/plan-master/`
+
+Inventory Master branding uses `assets/inventory-master.svg` on the dedicated privacy page and `assets/inventory-master.png` on the AFAMEE app hub card.
+
+The exact supplied source SVG is preserved as `assets/inventory-master-source.svg`; `assets/inventory-master.svg` is the web-ready transparent-background copy used by the page.
